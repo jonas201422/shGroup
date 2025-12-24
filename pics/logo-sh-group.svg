@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" role="img" aria-labelledby="title desc">
+  <title id="title">SH Group Logo</title>
+  <desc id="desc">Minimalist wordmark for SH Group with ice-blue accent.</desc>
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4bc1ff" />
+      <stop offset="100%" stop-color="#7cd7ff" />
+    </linearGradient>
+  </defs>
+  <rect x="2" y="8" width="196" height="44" rx="10" fill="#0d0f12" stroke="url(#g)" stroke-width="3" />
+  <text x="20" y="38" fill="#e8edf4" font-family="'Inter', system-ui, sans-serif" font-weight="700" font-size="24">SH Group</text>
+  <path d="M146 19h12v8h-12zm0 14h12v8h-12zm16-14h12v8h-12zm0 14h12v8h-12z" fill="url(#g)" />
+</svg>
